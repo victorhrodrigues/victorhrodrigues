@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats-topaz-eight-66.vercel.app/api/top-langs/?username=victorhrodrigues&hide=html,css&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-topaz-eight-66.vercel.app/api?username=victorhrodrigues&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-topaz-eight-66.vercel.app/api/top-langs/?username=victorhrodrigues&hide=html,css&langs_count=8&count_private=true" />
+</p>
 
 <!--
 **victorhrodrigues/victorhrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
