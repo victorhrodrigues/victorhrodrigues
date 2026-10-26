@@ -5,7 +5,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-topaz-eight-66.vercel.app/api?username=victorhrodrigues&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-topaz-eight-66.vercel.app/api/top-langs/?username=victorhrodrigues&layout=compact&hide=html,css&langs_count=8&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-topaz-eight-66.vercel.app/api/top-langs/?username=victorhrodrigues&layout=compact&hide=html,css&langs_count=8&count_private=true&v=2" />
 </p>
 
 <!--
