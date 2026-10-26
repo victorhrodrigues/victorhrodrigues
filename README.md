@@ -1,4 +1,7 @@
-## Hi there 👋
+## 👨‍💻 Sobre mim
+- 🎓 Estudante de Ciência da Computação na UFES
+- 🔬 Foco em Otimização e Desenvolvimento Full Stack
+- 🚀 Construindo soluções web e mobile com TypeScript, Laravel e C++
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-topaz-eight-66.vercel.app/api?username=victorhrodrigues&show_icons=true&count_private=true" />
